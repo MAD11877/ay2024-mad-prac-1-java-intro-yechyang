@@ -51,7 +51,7 @@ public class Question5
           }
       }
       
-      System.out.println("The mode is: " + mode);
+      System.out.println(mode);
 
   }
 }
