@@ -32,7 +32,7 @@ public class Question5
       int[] list = new int[num];
       
       for(int i = 0; i < num; i++) {
-          System.out.print("Enter an integer: ");
+          System.out.print("");
           list[i] = in.nextInt();
       }
       
